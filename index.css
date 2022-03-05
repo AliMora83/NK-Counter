@@ -63,8 +63,17 @@ p {
 }
 
 #bck-btn {
-    background: rgb(29, 27, 59);
+    letter-spacing: 0.25rem;
+    width: 42vh;
+    height: 50px;
+    border: none;
+    outline: none;
     color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
 }
 
 button {
