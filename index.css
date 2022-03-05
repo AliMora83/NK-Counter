@@ -62,6 +62,11 @@ p {
     background: #F5F5FA;
 }
 
+#bck-btn {
+    background: rgb(29, 27, 59);
+    color: #fff;
+}
+
 button {
   align-items: center;
   background: #f5f5fa;
@@ -98,8 +103,4 @@ button {
   button {
     padding: 20px 40px 20px 40px;
   }
-}
-
-.button-2 {
-    color: red;
 }
